@@ -1,0 +1,27 @@
+2023-11-30T09:14:45 INFO Process B started
+2023-11-30T09:14:45 INFO Process A started
+2023-11-30T09:14:49 INFO Main process sends: 'Hello world!'
+2023-11-30T09:14:49 INFO Process A receive: 'Hello world!'
+2023-11-30T09:14:49 INFO Process A send response: 'Hello world!'
+2023-11-30T09:14:49 INFO Process B receive: 'hello world!'
+2023-11-30T09:14:49 INFO Process B send response: 'uryyb jbeyq!'
+2023-11-30T09:14:54 INFO Main process sends: 'And somebody else,'
+2023-11-30T09:14:54 INFO Main process receives: 'uryyb jbeyq!'
+2023-11-30T09:14:59 INFO Process A receive: 'And somebody else,'
+2023-11-30T09:14:59 INFO Process A send response: 'And somebody else,'
+2023-11-30T09:14:59 INFO Process B receive: 'and somebody else,'
+2023-11-30T09:14:59 INFO Process B send response: 'naq fbzrobql ryfr,'
+2023-11-30T09:15:00 INFO Main process sends: 'Who read this lines...'
+2023-11-30T09:15:00 INFO Main process receives: 'naq fbzrobql ryfr,'
+2023-11-30T09:15:05 INFO Process A receive: 'Who read this lines...'
+2023-11-30T09:15:05 INFO Process A send response: 'Who read this lines...'
+2023-11-30T09:15:05 INFO Process B receive: 'who read this lines...'
+2023-11-30T09:15:05 INFO Process B send response: 'jub ernq guvf yvarf...'
+2023-11-30T09:15:11 INFO Main process sends: 'Viva de la France!'
+2023-11-30T09:15:11 INFO Main process receives: 'jub ernq guvf yvarf...'
+2023-11-30T09:15:16 INFO Process A receive: 'Viva de la France!'
+2023-11-30T09:15:16 INFO Process A send response: 'Viva de la France!'
+2023-11-30T09:15:16 INFO Process B receive: 'viva de la france!'
+2023-11-30T09:15:16 INFO Process B send response: 'ivin qr yn senapr!'
+2023-11-30T09:15:21 INFO Process A finished
+2023-11-30T09:15:21 INFO Process B finished
