@@ -15,8 +15,48 @@
 
 ### Решение
 
-Файл релизации: [latex_table.py](latex_table.py).
+Файл релизации: [latex_table.py](latex_table_generator/latex_table_generator.py).
 
 Файлы артефакты:
 * [table.tex](artifacts/table.tex) - пример latex таблицы
 
+
+## Задание 2.2
+
+## Формулировка
+
+Написать функцию для генерации картинок в латех.
+
+В качестве картинки использовать любую картинку, НО:
+
+* Нужно собрать код из первой ДЗ в библиотеку при помощи setuptools/conda-build, выложить в репозиторий
+
+* Если первая ДЗ не сделана, то собрать любой пакет, который генерирует картинку
+
+* Установить библиотеку, сгенерировать картинку
+
+После этого сгенерировать по полученному латеху PDF с таблицей из easy задачи и картинкой. PDF -  первый артефакт задачи, ссылка на репозиторий в PyPI/Anaconda - второй.
+
+Генерировать pdf можно при помощи pdflatex. Но чтобы он заработал, нужен дистрибутив самого теха. Их много разных
+
+## Решение
+
+Для генерации whl: [setup.py](setup.py)
+
+Далее использовал команду
+
+```shell
+python setup.py sdist bdist_wheel
+```
+
+Получил файл [latex_table_generator-1.0-py3-none-any.whl](dist%2Flatex_table_generator-1.0-py3-none-any.whl)
+
+Далее установил его
+
+```shell
+pip install latex_table_generator-1.0-py3-none-any.whl
+```
+
+Код генерирующий вставку в LaTeX картинки: [image_generator.py](image_generator.py).
+
+Пример сгенерированной pdf: [image.pdf](artifacts%2Fimage.pdf)
