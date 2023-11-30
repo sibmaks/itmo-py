@@ -1,4 +1,16 @@
-class Matrix:
+import hashlib
+
+
+class HashableMixin:
+    def __hash__(self):
+        # преобразовываем данные в одну большую строчку
+        flattened_data = [str(item) for row in self.data for item in row]
+        concatenated_data = ''.join(flattened_data)
+        # возвращаем кэш полученной строки
+        return concatenated_data.__hash__()
+
+
+class Matrix(HashableMixin):
     def __init__(self, data):
         self.data = data
         self.rows = len(data)
