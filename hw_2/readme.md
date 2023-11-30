@@ -60,3 +60,27 @@ pip install latex_table_generator-1.0-py3-none-any.whl
 Код генерирующий вставку в LaTeX картинки: [image_generator.py](image_generator.py).
 
 Пример сгенерированной pdf: [image.pdf](artifacts%2Fimage.pdf)
+
+
+## Задание 2.3
+
+### Формулировка
+
+Скорее всего, для задачи 2.2 вы руками установили какие-то бинарные зависимости латеха. Если другой разработчик захочет переиспользовать ваш код, то ему придется проделать тоже самое. Чтобы этого избежать, обычно используют Docker. 
+
+Задача - написать Dockerfile и сгенерировать pdf при помощи докера.
+
+Артефактом будет сам Dockerfile, его можно оставить в папке hw02
+
+Да, можно использовать docker compose
+
+### Решение
+
+Файлы: [Dockerfile](Dockerfile) и [docker-compose-latex.yaml](docker-compose-latex.yaml)
+
+Запуск
+```shell
+docker-compose -f docker-compose-latex.yaml up
+```
+
+Пример созданного файла: [input.pdf](artifacts%2Fdocker%2Foutput%2Finput.pdf)

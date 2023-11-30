@@ -24,7 +24,7 @@ def create_latex_with_image(content):
 """ % content
 
 
-def save_to_file(content, filename="artifacts/image.tex"):
+def save_to_file(content, filename="artifacts/input.tex"):
     with open(filename, "w") as file:
         file.write(content)
 
