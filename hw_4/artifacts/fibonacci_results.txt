@@ -1,0 +1,3 @@
+Sync: Fib(40) = 102334155, Execution Time: 9.17682 seconds
+Threading: Fib(40) = 102334155, Execution Time: 92.16159 seconds
+Multiprocessing: Fib(40) = 102334155, Execution Time: 14.31829 seconds
