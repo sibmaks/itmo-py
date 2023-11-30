@@ -1,0 +1,520 @@
+2023-11-30T09:32:07 INFO Task 1/1 submitted to executor.
+2023-11-30T09:32:07 INFO Task 1/1 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 1
+2023-11-30T09:32:08 INFO Thread Executor Time: 67.46 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 141.30 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.0000007853979547
+2023-11-30T09:32:08 INFO Result (Process): 1.0000007853979547
+2023-11-30T09:32:08 INFO Task 1/2 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/2 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/2 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/2 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 2
+2023-11-30T09:32:08 INFO Thread Executor Time: 63.62 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 73.80 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.000000785397997
+2023-11-30T09:32:08 INFO Result (Process): 1.000000785397997
+2023-11-30T09:32:08 INFO Task 1/3 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/3 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/3 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/3 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/3 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/3 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 3
+2023-11-30T09:32:08 INFO Thread Executor Time: 63.99 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 64.27 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.0000007853979687
+2023-11-30T09:32:08 INFO Result (Process): 1.0000007853979687
+2023-11-30T09:32:08 INFO Task 1/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/4 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/4 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 4
+2023-11-30T09:32:08 INFO Thread Executor Time: 64.05 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 61.47 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.0000007853979587
+2023-11-30T09:32:08 INFO Result (Process): 1.0000007853979587
+2023-11-30T09:32:08 INFO Task 1/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/5 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/5 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 5
+2023-11-30T09:32:08 INFO Thread Executor Time: 63.93 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 60.08 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.00000078539796
+2023-11-30T09:32:08 INFO Result (Process): 1.00000078539796
+2023-11-30T09:32:08 INFO Task 1/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 6/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/6 submitted to executor.
+2023-11-30T09:32:08 INFO Task 6/6 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 6
+2023-11-30T09:32:08 INFO Thread Executor Time: 65.35 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 63.96 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.0000007853979649
+2023-11-30T09:32:08 INFO Result (Process): 1.0000007853979649
+2023-11-30T09:32:08 INFO Task 1/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 6/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 7/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 6/7 submitted to executor.
+2023-11-30T09:32:08 INFO Task 7/7 submitted to executor.
+2023-11-30T09:32:08 INFO Jobs count: 7
+2023-11-30T09:32:08 INFO Thread Executor Time: 65.38 millis
+2023-11-30T09:32:08 INFO Process Executor Time: 69.01 millis
+2023-11-30T09:32:08 INFO Result (Thread): 1.0000007853979556
+2023-11-30T09:32:08 INFO Result (Process): 1.0000007853979556
+2023-11-30T09:32:08 INFO Task 1/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 6/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 7/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 8/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 1/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 2/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 3/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 4/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 5/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 6/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 7/8 submitted to executor.
+2023-11-30T09:32:08 INFO Task 8/8 submitted to executor.
+2023-11-30T09:32:09 INFO Jobs count: 8
+2023-11-30T09:32:09 INFO Thread Executor Time: 65.76 millis
+2023-11-30T09:32:09 INFO Process Executor Time: 74.95 millis
+2023-11-30T09:32:09 INFO Result (Thread): 1.000000785397958
+2023-11-30T09:32:09 INFO Result (Process): 1.000000785397958
+2023-11-30T09:32:09 INFO Task 1/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 1/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/9 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/9 submitted to executor.
+2023-11-30T09:32:09 INFO Jobs count: 9
+2023-11-30T09:32:09 INFO Thread Executor Time: 64.51 millis
+2023-11-30T09:32:09 INFO Process Executor Time: 78.54 millis
+2023-11-30T09:32:09 INFO Result (Thread): 1.0000007853979553
+2023-11-30T09:32:09 INFO Result (Process): 1.0000007853979553
+2023-11-30T09:32:09 INFO Task 1/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 1/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/10 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/10 submitted to executor.
+2023-11-30T09:32:09 INFO Jobs count: 10
+2023-11-30T09:32:09 INFO Thread Executor Time: 63.66 millis
+2023-11-30T09:32:09 INFO Process Executor Time: 98.27 millis
+2023-11-30T09:32:09 INFO Result (Thread): 1.0000007853979547
+2023-11-30T09:32:09 INFO Result (Process): 1.0000007853979547
+2023-11-30T09:32:09 INFO Task 1/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 1/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/11 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/11 submitted to executor.
+2023-11-30T09:32:09 INFO Jobs count: 11
+2023-11-30T09:32:09 INFO Thread Executor Time: 65.29 millis
+2023-11-30T09:32:09 INFO Process Executor Time: 96.68 millis
+2023-11-30T09:32:09 INFO Result (Thread): 1.0000007853979547
+2023-11-30T09:32:09 INFO Result (Process): 1.0000007853979547
+2023-11-30T09:32:09 INFO Task 1/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 12/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 1/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/12 submitted to executor.
+2023-11-30T09:32:09 INFO Task 12/12 submitted to executor.
+2023-11-30T09:32:09 INFO Jobs count: 12
+2023-11-30T09:32:09 INFO Thread Executor Time: 66.18 millis
+2023-11-30T09:32:09 INFO Process Executor Time: 100.62 millis
+2023-11-30T09:32:09 INFO Result (Thread): 1.0000007853979553
+2023-11-30T09:32:09 INFO Result (Process): 1.0000007853979553
+2023-11-30T09:32:09 INFO Task 1/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 12/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 13/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 1/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 12/13 submitted to executor.
+2023-11-30T09:32:09 INFO Task 13/13 submitted to executor.
+2023-11-30T09:32:09 INFO Jobs count: 13
+2023-11-30T09:32:09 INFO Thread Executor Time: 64.95 millis
+2023-11-30T09:32:09 INFO Process Executor Time: 130.05 millis
+2023-11-30T09:32:09 INFO Result (Thread): 1.0000007853979547
+2023-11-30T09:32:09 INFO Result (Process): 1.0000007853979547
+2023-11-30T09:32:09 INFO Task 1/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 12/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 13/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 14/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 1/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 2/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 3/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 4/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 5/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 6/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 7/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 8/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 9/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 10/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 11/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 12/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 13/14 submitted to executor.
+2023-11-30T09:32:09 INFO Task 14/14 submitted to executor.
+2023-11-30T09:32:10 INFO Jobs count: 14
+2023-11-30T09:32:10 INFO Thread Executor Time: 71.21 millis
+2023-11-30T09:32:10 INFO Process Executor Time: 118.82 millis
+2023-11-30T09:32:10 INFO Result (Thread): 1.0000007853979578
+2023-11-30T09:32:10 INFO Result (Process): 1.0000007853979578
+2023-11-30T09:32:10 INFO Task 1/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 1/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/15 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/15 submitted to executor.
+2023-11-30T09:32:10 INFO Jobs count: 15
+2023-11-30T09:32:10 INFO Thread Executor Time: 65.18 millis
+2023-11-30T09:32:10 INFO Process Executor Time: 158.19 millis
+2023-11-30T09:32:10 INFO Result (Thread): 1.0000007853979573
+2023-11-30T09:32:10 INFO Result (Process): 1.0000007853979573
+2023-11-30T09:32:10 INFO Task 1/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 1/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/16 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/16 submitted to executor.
+2023-11-30T09:32:10 INFO Jobs count: 16
+2023-11-30T09:32:10 INFO Thread Executor Time: 65.99 millis
+2023-11-30T09:32:10 INFO Process Executor Time: 125.61 millis
+2023-11-30T09:32:10 INFO Result (Thread): 1.000000785397955
+2023-11-30T09:32:10 INFO Result (Process): 1.000000785397955
+2023-11-30T09:32:10 INFO Task 1/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 17/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 1/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/17 submitted to executor.
+2023-11-30T09:32:10 INFO Task 17/17 submitted to executor.
+2023-11-30T09:32:10 INFO Jobs count: 17
+2023-11-30T09:32:10 INFO Thread Executor Time: 63.83 millis
+2023-11-30T09:32:10 INFO Process Executor Time: 126.21 millis
+2023-11-30T09:32:10 INFO Result (Thread): 1.0000007853979562
+2023-11-30T09:32:10 INFO Result (Process): 1.0000007853979562
+2023-11-30T09:32:10 INFO Task 1/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 17/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 18/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 1/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 17/18 submitted to executor.
+2023-11-30T09:32:10 INFO Task 18/18 submitted to executor.
+2023-11-30T09:32:10 INFO Jobs count: 18
+2023-11-30T09:32:10 INFO Thread Executor Time: 63.53 millis
+2023-11-30T09:32:10 INFO Process Executor Time: 132.31 millis
+2023-11-30T09:32:10 INFO Result (Thread): 1.0000007853979578
+2023-11-30T09:32:10 INFO Result (Process): 1.0000007853979578
+2023-11-30T09:32:10 INFO Task 1/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 17/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 18/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 19/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 1/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 2/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 3/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 4/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 5/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 6/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 7/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 8/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 9/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 10/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 11/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 12/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 13/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 14/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 15/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 16/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 17/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 18/19 submitted to executor.
+2023-11-30T09:32:10 INFO Task 19/19 submitted to executor.
+2023-11-30T09:32:11 INFO Jobs count: 19
+2023-11-30T09:32:11 INFO Thread Executor Time: 63.41 millis
+2023-11-30T09:32:11 INFO Process Executor Time: 151.02 millis
+2023-11-30T09:32:11 INFO Result (Thread): 1.0000007853979587
+2023-11-30T09:32:11 INFO Result (Process): 1.0000007853979587
+2023-11-30T09:32:11 INFO Task 1/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 2/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 3/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 4/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 5/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 6/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 7/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 8/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 9/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 10/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 11/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 12/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 13/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 14/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 15/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 16/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 17/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 18/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 19/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 20/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 1/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 2/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 3/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 4/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 5/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 6/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 7/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 8/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 9/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 10/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 11/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 12/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 13/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 14/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 15/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 16/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 17/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 18/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 19/20 submitted to executor.
+2023-11-30T09:32:11 INFO Task 20/20 submitted to executor.
+2023-11-30T09:32:11 INFO Jobs count: 20
+2023-11-30T09:32:11 INFO Thread Executor Time: 64.09 millis
+2023-11-30T09:32:11 INFO Process Executor Time: 145.52 millis
+2023-11-30T09:32:11 INFO Result (Thread): 1.0000007853979556
+2023-11-30T09:32:11 INFO Result (Process): 1.0000007853979556

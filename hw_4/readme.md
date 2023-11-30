@@ -18,6 +18,34 @@
 Файл с результатами: [fibonacci_results.txt](artifacts%2Ffibonacci_results.txt)
 
 
+## Задание 4.2
+
+### Формулировка
+
+Переписать функцию `integrate` для того, чтобы ее выполнение можно было распараллелить. 
+Использовать `concurrent.futures`: `ThreadPoolExecutor` и `ProcessPoolExecutor`.  
+Добавить логирование (когда какая задача запускается), сравнить время выполнения для `integrate(math.cos, 0, math.pi / 2, 
+n_jobs=n_jobs`) при разном числе `n_jobs` (от 1 до `cpu_num*2`) при использовании `ThreadPoolExecutor` и `ProcessPoolExecutor`. 
+
+Артефакт - файл логов, файл сравнения времени исполнения в обоих случаях в зависимости от числа воркеров
+
+```python
+import math
+def integrate(f, a, b, *, n_jobs=1, n_iter=1000000):
+    acc = 0
+    step = (b - a) / n_iter
+    for i in range(n_iter):
+        acc += f(a + i * step) * step
+    return acc
+```
+
+### Решение
+
+Файл с решением: [task_2.py](task_2.py)
+
+Файл с логами: [task_2.log](artifacts%2Ftask_2.log)
+
+
 ## Задание 4.3
 
 ### Формулировка
